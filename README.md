@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm HankuoYuan.
 - 🔭 I’m currently studying in Guangdong University of Technology.
 - 🌱 I’m currently learning Daily application embedded.
 - 👯 I’m looking to collaborate on embedded project.
