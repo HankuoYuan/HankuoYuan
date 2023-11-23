@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently studying in Guangdong University of Technology.
+- 🌱 I’m currently learning Daily application embedded.
+- 👯 I’m looking to collaborate on embedded project.
 <!--
 **HankuoYuan/HankuoYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
