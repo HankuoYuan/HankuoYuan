@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning Daily application embedded.
 - 👯 I’m looking to collaborate on embedded project.
 
-[![HankuoYuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HankuoYuan&hide=stars&show_icons=true&count_private=true&hide_rank=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **HankuoYuan/HankuoYuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
